@@ -1,1 +1,1 @@
-Kafka test
+Message queue testing
